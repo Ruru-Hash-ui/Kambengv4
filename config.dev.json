@@ -17,7 +17,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100041394069745"
+    "100041394069745", "61560846400192"
+    
   ],
   "whiteListMode": {
     "enable": false,
@@ -27,7 +28,7 @@
   "OWNER": "Ram Luji",
   "AGE": "SECRET",
   "GENDER": "MALE",
-  "nickNameBot": "PERYAHAN BOT",
+  "nickNameBot": "MARK",
   "FACEBOOK": "https://www.facebook.com/profile.php?id=100041394069745",
   "prefix": "/",
   "database": {
