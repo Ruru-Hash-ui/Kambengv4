@@ -72,7 +72,7 @@ module.exports = {
 				return message.reply(
 					reasonBusy ?
 						getLang("alreadyOnWithReason", mentions[userID].replace("@Ram Bermudez", "Ano gusto mo sa poging admin ko🧐"), reasonBusy) :
-						getLang("alreadyOn", mentions[userID].replace("@", "")));
+						getLang("alreadyOn", mentions[userID].replace("@Ram Bermudez", "Ano gusto mo Sa poging owner ko? 😡")));
 			}
 		}
 	}
